@@ -1,6 +1,6 @@
 # giiif
 
-giiif library is inspired by ruby gem iiif_s3 (https://github.com/cmoa/iiif_s3). It serves as a generator for IIIF level 0 compatible image tiles and manifests from a collection of source images. The generated image stack can also be uploaded Amazon S3 and used for static serving.
+giiif library is inspired by ruby gem iiif_s3 (https://github.com/cmoa/iiif_s3). It serves as a generator for IIIF level 0 compatible image tiles and metadata from a collection of source images. The generated image stack can also be uploaded to Amazon S3 and used for static serving.
 
 ## Installation
 
